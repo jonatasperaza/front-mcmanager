@@ -1,13 +1,48 @@
-[01/08 00:12:58] [INFO] Número de usuários locais: 1
-[01/08 00:12:58] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
-[01/08 00:12:58] [INFO] Número de daemons remotos: 1
-[01/08 00:12:58] [INFO] ==================================
-[01/08 00:12:58] [INFO] O painel de controle foi iniciado
-[01/08 00:12:58] [INFO] Projeto de Referência: https://github.com/mcsmanager
-[01/08 00:12:58] [INFO] URL de Acesso: http://localhost:{{porta}}
-[01/08 00:12:58] [INFO] O acesso público requer a abertura das portas 23333 e da porta do daemon.
-[01/08 00:12:58] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
-[01/08 00:12:58] [INFO] ==================================
-[01/08 00:13:51] [INFO] Conectado ao daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
-[01/08 00:13:51] [INFO] Configurar idioma do daemon (localhost:24444/PC CASA) language: pt_br
-[01/08 00:13:51] [INFO] Validação da chave do daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [localhost:24444] bem-sucedida
+[01/08 00:25:20] [INFO] Número de usuários locais: 1
+[01/08 00:25:20] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/08 00:25:20] [INFO] Número de daemons remotos: 1
+[01/08 00:25:20] [INFO] ==================================
+[01/08 00:25:20] [INFO] O painel de controle foi iniciado
+[01/08 00:25:20] [INFO] Projeto de Referência: https://github.com/mcsmanager
+[01/08 00:25:20] [INFO] URL de Acesso: http://localhost:{{porta}}
+[01/08 00:25:20] [INFO] O acesso público requer a abertura das portas 23333 e da porta do daemon.
+[01/08 00:25:20] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
+[01/08 00:25:20] [INFO] ==================================
+[01/08 00:25:38] [INFO] [HTTP] GET: http://localhost:23333/
+[01/08 00:25:38] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:38] [INFO] [HTTP] GET: http://localhost:23333/assets/index-64e20a3a.js
+[01/08 00:25:38] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:38] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-25a63267.css
+[01/08 00:25:38] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:38] [INFO] [HTTP] GET: http://localhost:23333/assets/vue-e790828e.js
+[01/08 00:25:38] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-29992a7d.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-es-8d8f5c96.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/api/auth/status
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/pt_BR-774fdffc.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/favicon.ico
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-51d7db67.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/echart-372a619d.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/zrender-bd06e061.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/xterm-a429e2b3.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/codemirror-df17d2c3.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/htmlparser2-be168f8e.js
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-167cc0e2.css
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:39] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[01/08 00:25:39] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:40] [INFO] [HTTP] GET: http://localhost:23333/assets/logo-586bf317.png
+[01/08 00:25:40] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined
+[01/08 00:25:40] [INFO] [HTTP] GET: http://localhost:23333/api/auth/login_info
+[01/08 00:25:40] [INFO] [HTTP] IP: 127.0.0.1 USER: undefined UUID: undefined

@@ -1,0 +1,13 @@
+[01/08 00:12:58] [INFO] Número de usuários locais: 1
+[01/08 00:12:58] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/08 00:12:58] [INFO] Número de daemons remotos: 1
+[01/08 00:12:58] [INFO] ==================================
+[01/08 00:12:58] [INFO] O painel de controle foi iniciado
+[01/08 00:12:58] [INFO] Projeto de Referência: https://github.com/mcsmanager
+[01/08 00:12:58] [INFO] URL de Acesso: http://localhost:{{porta}}
+[01/08 00:12:58] [INFO] O acesso público requer a abertura das portas 23333 e da porta do daemon.
+[01/08 00:12:58] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
+[01/08 00:12:58] [INFO] ==================================
+[01/08 00:13:51] [INFO] Conectado ao daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/08 00:13:51] [INFO] Configurar idioma do daemon (localhost:24444/PC CASA) language: pt_br
+[01/08 00:13:51] [INFO] Validação da chave do daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [localhost:24444] bem-sucedida

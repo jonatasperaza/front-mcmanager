@@ -1,0 +1,14 @@
+[01/08 00:23:35] [INFO] Número de usuários locais: 1
+[01/08 00:23:35] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/08 00:23:35] [INFO] Número de daemons remotos: 1
+[01/08 00:23:35] [INFO] ==================================
+[01/08 00:23:35] [INFO] O painel de controle foi iniciado
+[01/08 00:23:35] [INFO] Projeto de Referência: https://github.com/mcsmanager
+[01/08 00:23:35] [INFO] URL de Acesso: http://localhost:{{porta}}
+[01/08 00:23:35] [INFO] O acesso público requer a abertura das portas  e da porta do daemon.
+[01/08 00:23:35] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
+[01/08 00:23:35] [INFO] ==================================
+[01/08 00:24:35] [WARN] Daemon exception detected: PC CASA localhost:24444, reconnecting...
+[01/08 00:24:35] [INFO] Usuário iniciou uma solicitação de conexão duplicada, redefinindo a configuração da conexão:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/08 00:24:35] [INFO] Daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [localhost:24444] desconectado
+[01/08 00:24:35] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
