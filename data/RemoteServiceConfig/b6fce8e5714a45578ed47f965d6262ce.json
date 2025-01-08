@@ -1,0 +1,15 @@
+{
+    "ip": "localhost",
+    "port": 24444,
+    "prefix": "",
+    "remarks": "PC CASA",
+    "apiKey": "c2e6b8d6abd24af7a8052e51e70481bb5371d1813dc4f55",
+    "connectOpts": {
+        "multiplex": false,
+        "reconnectionDelayMax": 3000,
+        "timeout": 3000,
+        "reconnection": true,
+        "reconnectionAttempts": 20,
+        "rejectUnauthorized": false
+    }
+}

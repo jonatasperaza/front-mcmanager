@@ -1,0 +1,15 @@
+{
+    "uuid": "c9d4ed902ec647ac97fd80034d43db97",
+    "userName": "jonatasperaza",
+    "passWord": "$2a$10$xgC8Y6UyGRbptPxvGKkZXODTZfmaY3.S12jM3DBs.DlApYjHxJtlG",
+    "passWordType": 1,
+    "salt": "",
+    "permission": 10,
+    "registerTime": "15/12/2024, 12:13:14",
+    "loginTime": "",
+    "instances": [],
+    "apiKey": "",
+    "isInit": false,
+    "secret": "",
+    "open2FA": false
+}

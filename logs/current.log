@@ -1,0 +1,63 @@
+[01/07 22:12:21] [INFO] Número de usuários locais: 1
+[01/07 22:12:21] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/07 22:12:21] [INFO] Número de daemons remotos: 1
+[01/07 22:12:21] [INFO] ==================================
+[01/07 22:12:21] [INFO] O painel de controle foi iniciado
+[01/07 22:12:21] [INFO] Projeto de Referência: https://github.com/mcsmanager
+[01/07 22:12:21] [INFO] URL de Acesso: http://localhost:{{porta}}
+[01/07 22:12:21] [INFO] O acesso público requer a abertura das portas 23333 e da porta do daemon.
+[01/07 22:12:21] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
+[01/07 22:12:21] [INFO] ==================================
+[01/07 22:12:21] [INFO] Conectado ao daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/07 22:12:21] [INFO] Configurar idioma do daemon (localhost:24444/PC CASA) language: pt_br
+[01/07 22:12:21] [INFO] Validação da chave do daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [localhost:24444] bem-sucedida
+[01/07 22:12:24] [INFO] [HTTP] GET: http://localhost:23333/
+[01/07 22:12:24] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:24] [INFO] [HTTP] GET: http://localhost:23333/assets/index-64e20a3a.js
+[01/07 22:12:24] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:24] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-25a63267.css
+[01/07 22:12:24] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:24] [INFO] [HTTP] GET: http://localhost:23333/assets/vue-e790828e.js
+[01/07 22:12:24] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:24] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-es-8d8f5c96.js
+[01/07 22:12:24] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:24] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-29992a7d.js
+[01/07 22:12:24] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/api/auth/status
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/pt_BR-774fdffc.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-51d7db67.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/echart-372a619d.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/zrender-bd06e061.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/xterm-a429e2b3.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/codemirror-df17d2c3.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-167cc0e2.css
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:27] [INFO] [HTTP] GET: http://localhost:23333/assets/htmlparser2-be168f8e.js
+[01/07 22:12:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:28] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[01/07 22:12:28] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:28] [INFO] [HTTP] GET: http://localhost:23333/assets/logo-586bf317.png
+[01/07 22:12:28] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:28] [INFO] [HTTP] GET: http://localhost:23333/api/auth/login_info
+[01/07 22:12:28] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:35] [INFO] [HTTP] POST: http://localhost:23333/api/auth/login
+[01/07 22:12:35] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[01/07 22:12:35] [INFO] ------ Evento de Login do Usuário ------
+[01/07 22:12:35] [INFO] [LOGIN] IP: ::1 Login jonatasperaza successful!
+[01/07 22:12:35] [INFO] [LOGIN] Token: 805fdd79892346688b3b1f95c53cdbf11736298755928
+[01/07 22:12:35] [INFO] ------ Evento de Login do Usuário ------
+[01/07 22:12:36] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[01/07 22:12:36] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[01/07 22:12:40] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_services_list?token=805fdd79892346688b3b1f95c53cdbf11736298755928
+[01/07 22:12:40] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[01/07 22:12:40] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_service_instances?daemonId=b6fce8e5714a45578ed47f965d6262ce&page=1&page_size=20&status=&instance_name=&tag=[]&token=805fdd79892346688b3b1f95c53cdbf11736298755928
+[01/07 22:12:40] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[01/07 22:12:43] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_services_list?token=805fdd79892346688b3b1f95c53cdbf11736298755928
+[01/07 22:12:43] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97

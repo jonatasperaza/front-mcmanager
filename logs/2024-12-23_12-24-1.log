@@ -1,0 +1,369 @@
+[12/22 11:09:40] [INFO] Número de usuários locais: 1
+[12/22 11:09:40] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[12/22 11:09:40] [INFO] Número de daemons remotos: 1
+[12/22 11:09:40] [INFO] ==================================
+[12/22 11:09:40] [INFO] O painel de controle foi iniciado
+[12/22 11:09:40] [INFO] Projeto de Referência: https://github.com/mcsmanager
+[12/22 11:09:40] [INFO] URL de Acesso: http://localhost:{{porta}}
+[12/22 11:09:40] [INFO] O acesso público requer a abertura das portas 23333 e da porta do daemon.
+[12/22 11:09:40] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
+[12/22 11:09:40] [INFO] ==================================
+[12/22 11:09:40] [INFO] Conectado ao daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[12/22 11:09:40] [INFO] Configurar idioma do daemon (localhost:24444/PC CASA) language: pt_br
+[12/22 11:09:40] [INFO] Validação da chave do daemon remoto [b6fce8e5714a45578ed47f965d6262ce] [localhost:24444] bem-sucedida
+[12/22 11:09:42] [INFO] [HTTP] GET: http://localhost:23333/
+[12/22 11:09:42] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:42] [INFO] [HTTP] GET: http://localhost:23333/assets/index-64e20a3a.js
+[12/22 11:09:42] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:42] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-25a63267.css
+[12/22 11:09:42] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:42] [INFO] [HTTP] GET: http://localhost:23333/assets/vue-e790828e.js
+[12/22 11:09:42] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:42] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-es-8d8f5c96.js
+[12/22 11:09:42] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:42] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-29992a7d.js
+[12/22 11:09:42] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/api/auth/status
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/pt_BR-774fdffc.js
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-51d7db67.js
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/echart-372a619d.js
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/zrender-bd06e061.js
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/xterm-a429e2b3.js
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/codemirror-df17d2c3.js
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:44] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-167cc0e2.css
+[12/22 11:09:44] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:45] [INFO] [HTTP] GET: http://localhost:23333/assets/htmlparser2-be168f8e.js
+[12/22 11:09:45] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:45] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[12/22 11:09:45] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:45] [INFO] [HTTP] GET: http://localhost:23333/assets/logo-586bf317.png
+[12/22 11:09:45] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:45] [INFO] [HTTP] GET: http://localhost:23333/api/auth/login_info
+[12/22 11:09:45] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:56] [INFO] [HTTP] POST: http://localhost:23333/api/auth/login
+[12/22 11:09:56] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[12/22 11:09:56] [INFO] ------ Evento de Login do Usuário ------
+[12/22 11:09:56] [INFO] [LOGIN] IP: ::1 Login jonatasperaza successful!
+[12/22 11:09:56] [INFO] [LOGIN] Token: 77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:09:56] [INFO] ------ Evento de Login do Usuário ------
+[12/22 11:09:57] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[12/22 11:09:57] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:01] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_services_list?token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:01] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:01] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_service_instances?daemonId=b6fce8e5714a45578ed47f965d6262ce&page=1&page_size=20&status=&instance_name=&tag=[]&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:01] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:03] [INFO] [HTTP] POST: http://localhost:23333/api/protected_instance/stream_channel?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:03] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:03] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:03] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:03] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/outputlog?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:03] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:06] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/open?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:06] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:09] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:12] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:12] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:15] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:15] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:18] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:18] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:21] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:21] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:24] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:24] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:27] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:27] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:30] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:30] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:33] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:33] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:36] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:36] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:39] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:39] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:42] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:42] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:45] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:45] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:51] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:51] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:54] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:54] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:10:57] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:10:57] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:11:00] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:11:00] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:11:03] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:11:03] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 11:11:06] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 11:11:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-51d7db67.js
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/echart-372a619d.js
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/zrender-bd06e061.js
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-167cc0e2.css
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/xterm-a429e2b3.js
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/codemirror-df17d2c3.js
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:50] [INFO] [HTTP] GET: http://localhost:23333/assets/htmlparser2-be168f8e.js
+[12/22 14:42:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:53] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[12/22 14:42:53] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:54] [INFO] [HTTP] GET: http://localhost:23333/assets/logo-586bf317.png
+[12/22 14:42:54] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:55] [INFO] [HTTP] POST: http://localhost:23333/api/protected_instance/stream_channel?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:42:55] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:55] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:42:55] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:55] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/outputlog?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:42:55] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:42:59] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:42:59] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:02] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:02] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:05] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:05] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:08] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:08] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:11] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:11] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:14] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:14] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:17] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:17] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:20] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:20] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:23] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:23] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:26] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:26] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:29] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:29] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:32] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:32] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:35] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:35] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:38] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:38] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:41] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:41] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:44] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:44] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:47] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:47] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:50] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:53] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:53] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:56] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:56] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:43:59] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:43:59] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:44:02] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:44:02] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:44:05] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:44:05] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:44:08] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:44:08] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/22 14:44:11] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/22 14:44:11] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/assets/index-64e20a3a.js
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/assets/vue-e790828e.js
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-29992a7d.js
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-es-8d8f5c96.js
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-25a63267.css
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/api/auth/status
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/assets/pt_BR-774fdffc.js
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:09] [INFO] [HTTP] GET: http://localhost:23333/favicon.ico
+[12/23 01:14:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-51d7db67.js
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/echart-372a619d.js
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/zrender-bd06e061.js
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/xterm-a429e2b3.js
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/codemirror-df17d2c3.js
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-167cc0e2.css
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/htmlparser2-be168f8e.js
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/assets/logo-586bf317.png
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:10] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_services_list?token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:11] [INFO] [HTTP] GET: http://localhost:23333/api/service/remote_service_instances?daemonId=b6fce8e5714a45578ed47f965d6262ce&page=1&page_size=20&status=&instance_name=&tag=[]&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:11] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:12] [INFO] [HTTP] POST: http://localhost:23333/api/protected_instance/stream_channel?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:12] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:12] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:12] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:13] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/outputlog?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:13] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:16] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:16] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:19] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:19] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:22] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:22] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:25] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:25] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:28] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:28] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:31] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:31] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:34] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:34] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:37] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:37] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:40] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:40] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:43] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:43] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:46] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:46] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:49] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:49] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:52] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:52] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:55] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:55] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:14:58] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:14:58] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:01] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:01] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:04] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:04] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:07] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:07] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:10] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:13] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:13] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:16] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:16] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:15:35] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:15:35] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:35] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:35] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:40] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:40] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:43] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:43] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:46] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:46] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:47] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/stop?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:47] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:49] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:49] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:52] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:52] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:55] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:55] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:16:58] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:16:58] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:01] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:01] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:04] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:04] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:07] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:07] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:10] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:10] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:11] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:11] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:15] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fmods%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:15] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:42] [INFO] [HTTP] POST: http://localhost:23333/api/files/upload?upload_dir=%2Fmods%2F&daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&file_name=ftbbackups2-forge-1.20-1.0.23.jar&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:42] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:17:43] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fmods%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:17:43] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:20:54] [INFO] [HTTP] POST: http://localhost:23333/api/files/upload?upload_dir=%2Fmods%2F&daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&file_name=grieflogger-1.1.5-forge.jar&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:20:54] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:20:56] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fmods%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:20:56] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:21:06] [INFO] [HTTP] POST: http://localhost:23333/api/protected_instance/stream_channel?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:21:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:21:06] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:21:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:21:06] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/outputlog?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:21:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:21:09] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:21:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:21:21] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fconfig%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:21:21] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:21:34] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:21:34] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:23:42] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:23:42] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:23:57] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:23:57] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:24:09] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:24:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:24:14] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fworld%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:24:14] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:24:19] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fworld%2Fdata%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:24:19] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:24:45] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fworld%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:24:45] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:24:56] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fworld%2Fserverconfig%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:24:56] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:25:00] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:25:00] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:25:47] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:25:47] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:25:47] [INFO] [HTTP] GET: http://localhost:23333/api/files/list?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&page=0&page_size=100&file_name=&target=%2Fworld%2Fserverconfig%2F&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:25:47] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:25:50] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:25:50] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:25:55] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:25:55] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:26:02] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:26:02] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:26:45] [INFO] [HTTP] PUT: http://localhost:23333/api/files?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:26:45] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:26:59] [INFO] [HTTP] POST: http://localhost:23333/api/protected_instance/stream_channel?daemonId=b6fce8e5714a45578ed47f965d6262ce&uuid=5ef0dbceb990427491f17789401c749e&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:26:59] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:26:59] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:26:59] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:26:59] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/outputlog?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:26:59] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:27:03] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:27:03] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:27:06] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:27:06] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:27:09] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:27:09] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:27:12] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:27:12] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:27:14] [INFO] [HTTP] GET: http://localhost:23333/api/protected_instance/kill?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:27:14] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
+[12/23 01:27:15] [INFO] [HTTP] GET: http://localhost:23333/api/instance?uuid=5ef0dbceb990427491f17789401c749e&daemonId=b6fce8e5714a45578ed47f965d6262ce&token=77d2dbb136cf40b5af445c57678751691734876596712
+[12/23 01:27:15] [INFO] [HTTP] IP: ::1 USER: jonatasperaza UUID: c9d4ed902ec647ac97fd80034d43db97
