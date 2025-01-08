@@ -1,5 +1,5 @@
 {
-    "httpPort": 23333,
+    "httpPort": 80,
     "httpIp": "",
     "prefix": "",
     "reverseProxyMode": false,
