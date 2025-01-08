@@ -1,0 +1,10 @@
+[01/08 00:11:49] [INFO] Número de usuários locais: 1
+[01/08 00:11:49] [INFO] Tentando conectar ao daemon remoto:[b6fce8e5714a45578ed47f965d6262ce] [ws://localhost:24444/PC CASA]
+[01/08 00:11:49] [INFO] Número de daemons remotos: 1
+[01/08 00:11:49] [INFO] ==================================
+[01/08 00:11:49] [INFO] O painel de controle foi iniciado
+[01/08 00:11:49] [INFO] Projeto de Referência: https://github.com/mcsmanager
+[01/08 00:11:49] [INFO] URL de Acesso: http://localhost:{{porta}}
+[01/08 00:11:49] [INFO] O acesso público requer a abertura das portas 80 e da porta do daemon.
+[01/08 00:11:49] [INFO] Você pode usar o atalho Ctrl+C para fechar o programa
+[01/08 00:11:49] [INFO] ==================================
