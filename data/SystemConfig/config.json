@@ -1,6 +1,6 @@
 {
     "httpPort": 23333,
-    "httpIp": "127.0.0.1",
+    "httpIp": "",
     "prefix": "",
     "reverseProxyMode": true, 
     "dataPort": 233334, 
